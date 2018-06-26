@@ -1,0 +1,26 @@
+    1  git clone https://github.com/nikhilmadhamshettiwar/web-test.git
+    2  ls
+    3  git status
+    4  cd web-test/
+    5  git status
+    6  git add .
+    7  git commit -m "added index"
+    8  git push
+    9  git checkout test
+   10  git pull
+   11  git checkout test
+   12  git remote -v
+   13  git add .
+   14  git commit -m "some change"
+   15  git push --set upstream  origin test
+   16  git pull origin test
+   17  git add *
+   18  git commit -m "Fixed conflicts"
+   19  git push --set upstream  origin test
+   20  git status
+   21  git push -set -upstream origin test
+   22  git push --set-upstream origin test
+   23  history
+   24  git config --global user.name "Nikhil Madhamshettiwar"
+   25  git status
+   26  history
